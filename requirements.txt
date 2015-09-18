@@ -1,7 +1,6 @@
-quokka-flask-mongoengine 
-Flask-OAuthlib 
-quokka-flask-security 
-Pillow 
-PyRSS2Gen 
-requests 
-quokka-speaklate
+quokka-flask-mongoengine
+Flask-OAuthlib
+quokka-flask-security
+Pillow
+PyRSS2Gen
+requests
