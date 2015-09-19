@@ -4,3 +4,4 @@ quokka-flask-security
 Pillow
 PyRSS2Gen
 requests
+django
