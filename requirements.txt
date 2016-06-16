@@ -5,3 +5,4 @@ Pillow
 PyRSS2Gen
 requests
 django
+test
